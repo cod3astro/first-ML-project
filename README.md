@@ -34,7 +34,7 @@ Evaluated performance using MAE, MSE, RMSE, and R² score.
 Visualized model metrics and feature importance for interpretability.
 
 
-RESULTS
+RESULTS:
 
 The model demonstrated a reasonable predictive performance.
 
