@@ -1,5 +1,5 @@
 ### 
-CALORIE PREDICTION USING LINEAR REGRESSION
+CALORIE PREDICTION USING LINEAR REGRESSION:
 
 This project marks my first hands-on experience with machine learning. I built a linear regression model to predict the number of calories burned during physical activity using a real-world dataset containing features like age, gender, weight, heart rate, and body temperature.
 
