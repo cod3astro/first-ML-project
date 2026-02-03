@@ -11,7 +11,6 @@ Explore feature relationships and their impact on the target variable.
 
 Practice end-to-end data science workflow from data cleaning to model evaluation.
 
-
 TOOLS & TECHNOLOGIES
 
 Languages/Libraries: Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn
