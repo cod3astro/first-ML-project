@@ -18,7 +18,7 @@ Languages/Libraries: Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn
 Techniques: Linear Regression, One-Hot Encoding, Feature Scaling, Train-Test Split, EDA
 
 
-KEY STEPS 
+KEY STEPS
 
 Loaded and cleaned the dataset (removed duplicates, handled missing values). 
 
