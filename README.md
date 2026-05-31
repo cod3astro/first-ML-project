@@ -20,7 +20,7 @@ Techniques: Linear Regression, One-Hot Encoding, Feature Scaling, Train-Test Spl
 
 KEY STEPS 
 
-Loaded and cleaned the dataset (removed duplicates, handled missing values).
+Loaded and cleaned the dataset (removed duplicates, handled missing values). 
 
 Performed exploratory data analysis to understand distributions and correlations.
 
